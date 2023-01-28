@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Directory",
+        "name": "e:\\Development\\Laravel\\Sanjaya\\resources\\views",
+        "parent_id": null,
+        "fsPath": "e:\\Development\\Laravel\\Sanjaya\\resources\\views",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "v5jKTwyPzpFO6WZf"
+    },
+    {
+        "type": "Directory",
+        "name": "e:\\Development\\Laravel\\Sanjaya\\app\\Http",
+        "parent_id": null,
+        "fsPath": "e:\\Development\\Laravel\\Sanjaya\\app\\Http",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ol3FArzuGjDRmdC9"
+    },
+    {
+        "type": "Directory",
+        "name": "e:\\Development\\Laravel\\Sanjaya\\app\\Models",
+        "parent_id": null,
+        "fsPath": "e:\\Development\\Laravel\\Sanjaya\\app\\Models",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "WJzcXVn7PGIYCMev"
+    }
+]
